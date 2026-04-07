@@ -1,5 +1,5 @@
 aid: ezy
-name: ezy
+name: Ezy
 description: >-
   ezy is a graphical gRPC and gRPC-Web client for testing and debugging gRPC
   services with an intuitive desktop interface.
@@ -17,7 +17,7 @@ modified: '2026-03-27'
 specificationVersion: '0.19'
 apis:
   - aid: ezy:ezy
-    name: ezy
+    name: Ezy
     description: >-
       ezy is a graphical gRPC and gRPC-Web client for testing and debugging
       gRPC services with an intuitive desktop interface.
