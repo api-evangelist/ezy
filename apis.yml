@@ -30,14 +30,14 @@ apis:
     properties:
       - type: Documentation
         url: https://github.com/hasanain/ezy#readme
-      - type: Getting Started
+      - type: GettingStarted
         url: https://github.com/hasanain/ezy#getting-started
 common:
   - type: Website
     url: https://github.com/hasanain/ezy
   - type: Documentation
     url: https://github.com/hasanain/ezy#readme
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/hasanain/ezy
 maintainers:
   - FN: Kin Lane
