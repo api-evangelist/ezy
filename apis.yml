@@ -33,6 +33,8 @@ apis:
       - type: GettingStarted
         url: https://github.com/hasanain/ezy#getting-started
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ezy
   - type: Website
     url: https://github.com/hasanain/ezy
   - type: Documentation
